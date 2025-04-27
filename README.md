@@ -65,3 +65,5 @@ The application will run at [http://localhost:3000](http://localhost:3000) in yo
 - Created separate components for better code organization and maintainability
 - Used client-side filtering and sorting for better user experience
 - Added form validation to ensure data integrity
+
+Live Link : https://ai-safety-incident-dashboard-one.vercel.app/
